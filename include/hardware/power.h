@@ -66,7 +66,6 @@ typedef enum {
     POWER_HINT_VR_MODE = 0x00000007,
     POWER_HINT_LAUNCH = 0x00000008,
     POWER_HINT_DISABLE_TOUCH = 0x00000009,
-    POWER_HINT_CAM_PREVIEW = 0x00000010
 } power_hint_t;
 
 typedef enum {
